@@ -1,0 +1,9 @@
+id,client,title,status,due_date,owner
+1,Acme Media,Deliver edited property photos,open,2026-10-27,Bassam
+2,Acme Media,Send final invoice,open,2026-10-30,Bassam
+3,Harbor Realty,Confirm shoot schedule,open,2026-10-28,Bassam
+4,Harbor Realty,Upload drone footage,done,2026-10-26,Bassam
+5,Northwind Studio,Follow up on revision request,open,2026-10-25,Bassam
+6,Northwind Studio,Share delivery link,open,2026-11-02,Bassam
+7,Acme Media,Archive completed project,done,2026-10-20,Bassam
+8,Harbor Realty,Client approval for edits,open,2026-10-29,Bassam
