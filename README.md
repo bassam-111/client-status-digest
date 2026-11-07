@@ -24,18 +24,14 @@ python app.py
 
 ## Sample output
 
-```
+Short digest example from `python digest.py tasks.csv 2026-10-28`:
+
+```text
 Client status digest as of 2026-10-28
 
 Acme Media: 2 open of 3 total, 1 overdue, next due 2026-10-27
   OVERDUE: Deliver edited property photos
 Harbor Realty: 2 open of 3 total, 0 overdue, next due 2026-10-28
-Northwind Studio: 2 open of 2 total, 1 overdue, next due 2026-10-25
-  OVERDUE: Follow up on revision request
-
-Acme Media: open=2 overdue=1 next_due=2026-10-27
-Harbor Realty: open=2 overdue=0 next_due=2026-10-28
-Northwind Studio: open=2 overdue=1 next_due=2026-10-25
 ```
 
 ## Files
